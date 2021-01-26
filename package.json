@@ -8,11 +8,9 @@
   "dependencies": {
     "ini": "1.1",
     "opener": "1.3",
-    "read": "1.0 >=1.0.4",
-    "osenv": "0"
+    "read": "1.0 >=1.0.4"
   },
   "readmeFilename": "README.md",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/isaacs/gist-cli"
